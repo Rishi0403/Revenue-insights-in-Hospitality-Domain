@@ -14,3 +14,8 @@ Insights Gained from Visualisations:
 6. Mumbai emerges as the most prolific revenue-generating city, while Delhi records comparatively lower revenue.
 7. Atliq Blu boasts the highest rating among the hotels.
 8. Despite fewer bookings, Bangalore generates more revenue than Hyderabad.
+
+Power BI Dashboard snapshot:
+
+![image](https://github.com/Rishi0403/Revenue-insights-in-Hospitality-Domain/assets/140383667/79786aaa-3642-4ba9-829d-e6e4ae29b1f8)
+
